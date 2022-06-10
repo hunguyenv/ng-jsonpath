@@ -1,6 +1,8 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/noherczeg/ng-jsonpath.svg?branch=master)](https://travis-ci.org/noherczeg/ng-jsonpath)
 
+A hosted version of ng-jsonpath to support CI builds dependent on this package
+
 # ng-jsonpath
 
 An angularjs module wrapper for jsonpath
