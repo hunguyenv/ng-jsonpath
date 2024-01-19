@@ -29,6 +29,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/noherczeg/ng-jsonpath.git"
+        "url": "git://github.com/hunguyenv/ng-jsonpath.git"
     }
 }
